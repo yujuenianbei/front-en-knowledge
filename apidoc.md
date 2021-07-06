@@ -45,3 +45,8 @@ yarn add apidoc
  * @apiVersion 0.0.1
  */
 ```
+
+访问路径
+```
+http://localhost:3000/apidoc/index.html
+```
